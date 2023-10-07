@@ -1,6 +1,5 @@
 # 💫 About Me:
-Atualmente atuo na área comercial como SDR. Mas enxergo que a cultura de Data Driven é fundamental para qualquer setor e por isso estou estudando SQL, Python e Datviz (Power BI e Looker Data Studio)
-
+Estagiário de dados do RH na Neurotech.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/brunohenriquebezerra#0104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohenriquebezerra/) 
