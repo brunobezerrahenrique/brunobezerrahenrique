@@ -1,5 +1,12 @@
 # 💫 About Me:
-Estagiário de dados do RH na Neurotech.
+Mais de 2 anos na área comercial/tecnologia guiado por uma cultura Data Driven para tomada de
+decisão e orientada por dados. Tive a oportunidade de auxiliar supervisores e coordenadores a
+modelagem metas e aperfeiçoarem processos com base em análise de dados nas minhas
+oportunidades no setor comercial. Atualmente sou responsável por analisar dados do RH e de
+remuneração construindo cenários preditivos, modelagem de planilhas e melhoria contínua dos
+processos de coleta e manipulação de dados.
+Background em análise de dados e automatização de processos. Conhecimento nas ferramentas
+MySQL, Python, Looker, Power BI, Excel e Google Sheet.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/brunohenriquebezerra#0104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohenriquebezerra/) 
